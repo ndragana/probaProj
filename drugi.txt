@@ -1,2 +1,3 @@
 prvi red pri kreiranju
 dodat i drugi red posle adda
+dodat posle komita
